@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "sftest": "fir-serverless-e2874"
+  }
+}
